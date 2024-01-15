@@ -50,6 +50,6 @@ sólidas e para a criação de um ambiente financeiramente sustentável.
 Essa KPI é valiosa e nos traz um insight importante para otimizar o desempenho financeiro, compreender o valor dos clientes 
 e tomar decisões estratégicas informadas para impulsionar o crescimento sustentável.
 
-Uma análise financeira, nos da a possibilidade de acompanhar de perto nossas finanças e entender onde podemos reduzir custos, aumentar a receita e melhorar o desempenho financeiro. Isso pode ser feito através de uma variedade de métricas e indicadores financeiros, como fluxo de caixa, margem de lucro, retorno sobre o investimento (ROI), entre outros.
+Esse projeto nos traz a importância e a clareza de uma análise financeira, e a possibilidade que ela nos da de acompanhar de perto nossas finanças e entender onde podemos reduzir custos, aumentar a receita e melhorar o desempenho financeiro. Isso pode ser feito através de uma variedade de métricas e indicadores financeiros, como fluxo de caixa, margem de lucro, retorno sobre o investimento (ROI), entre outros.
 
 Com a criação de dashboards personalizados que mostram visualmente as informações mais importantes e relevantes para o seu negócio. Isso permite que as tendências financeiras sejam monitoradas em tempo real e auxilie nas tomadas de decisões informadas com base em dados precisos.
